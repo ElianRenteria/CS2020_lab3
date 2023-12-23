@@ -1,0 +1,47 @@
+Script started on Thu Sep 16 22:30:34 2021
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Elians-MacBook-Pro.local/Users/elianyairrenteria/Desktop/Lab03[0m[27m[24m[Jelianyairrenteria@Elians-MacBook-Pro Lab03 % [K[?2004hgg++ -c lab03.cpp[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Elians-MacBook-Pro.local/Users/elianyairrenteria/Desktop/Lab03[0m[27m[24m[Jelianyairrenteria@Elians-MacBook-Pro Lab03 % [K[?2004hgg++ lab03.  .o  3.o -o lab03[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Elians-MacBook-Pro.local/Users/elianyairrenteria/Desktop/Lab03[0m[27m[24m[Jelianyairrenteria@Elians-MacBook-Pro Lab03 % [K[?2004hlls[?2004l
+Student.cpp		lab03.cpp		lab03_script_test
+lab03			lab03.o
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Elians-MacBook-Pro.local/Users/elianyairrenteria/Desktop/Lab03[0m[27m[24m[Jelianyairrenteria@Elians-MacBook-Pro Lab03 % [K[?2004h../lab03[?2004l
+
+Enter the student id and name: 51 913 Elian
+
+The student is added
+Enter the student id and name: 1243 Rosaro io
+
+The student is added
+Enter the student id and name: 6666 Imane
+
+The student is added
+Enter the student id and name: 2094 Dai vid
+
+The student is added
+Enter the student id and name: 4220 Karm im
+
+The student is added
+Enter the student id and name: 0 no
+
+The students are : 
+4220   Karim
+2094   David
+6666   Imane
+1243   Rosario
+5913   Elian
+
+The student id to be removed: 4220
+
+The students are : 
+2094   David
+6666   Imane
+1243   Rosario
+5913   Elian
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Elians-MacBook-Pro.local/Users/elianyairrenteria/Desktop/Lab03[0m[27m[24m[Jelianyairrenteria@Elians-MacBook-Pro Lab03 % [K[?2004heexit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...      21 completed.
+
+Script done on Thu Sep 16 22:32:26 2021

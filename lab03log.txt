@@ -1,0 +1,42 @@
+Script started on 2021-09-16 22:43:12-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab03[006799085@csusb.edu@jb359-3 Lab03]$ g++ -c lab03.cpp
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab03[006799085@csusb.edu@jb359-3 Lab03]$ g++ lab03.o -0[Ko lab03
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab03[006799085@csusb.edu@jb359-3 Lab03]$ ls
+[0m[38;5;40mlab03[0m  lab03.cpp  lab03log.txt  lab03.o  Student.cpp
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab03[006799085@csusb.edu@jb359-3 Lab03]$ ./lab03
+
+Enter the student id and name: 5913    5931 Elian
+
+The student is added
+Enter the student id and name: 1234 Rosario
+
+The student is added
+Enter the student id and name: 6620 Imane
+
+The student is added
+Enter the student id and name: 2039 David
+
+The student is added
+Enter the student id and name: 4202 Karim
+
+The student is added
+Enter the student id and name: 0 no
+
+The students are : 
+4202   Karim
+2039   David
+6620   Imane
+1234   Rosario
+5931   Elian
+
+The student id to be removed: 2039
+
+The students are : 
+4202   Karim
+6620   Imane
+1234   Rosario
+5931   Elian
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab03[006799085@csusb.edu@jb359-3 Lab03]$ exit
+exit
+
+Script done on 2021-09-16 22:44:36-07:00 [COMMAND_EXIT_CODE="0"]
